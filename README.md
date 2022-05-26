@@ -3,9 +3,9 @@
 
 This site having notes about every subject in advance class in ASAC. We will write notes about:
 
-1. C# C#
-2. Data structures and AlgorithmsDSA
-3. SQLSQL BOLT
+1. Web application
+2. Python django
+3. Database
 
 ## Code 102 - Intro to Software Development
 
