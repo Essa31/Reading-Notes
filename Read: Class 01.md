@@ -27,11 +27,11 @@ Now we haven’t touched the logarithms yet, and that’s because they are sligh
 
 # Pain vs. Suffering
 
-It may be difficult to differentiate between pain and suffering for some people, but if you look closely, you will find it easy.
+## Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
 
-1. You’ll be pushed mentally, having to think your way through problems that you had only even heard about a few hours beforehand.
-2. You’ll have to forge your own path toward a solution.
-3. You’ll have to research for hours on end, fleshing out the skeleton that we discuss in class, piling information on top of application so that you can reach your goals.
+## You have got to keep going and fighting for everything, and one day you'll get to where you want.
+
+
 
 # Names and Values in Python
 
