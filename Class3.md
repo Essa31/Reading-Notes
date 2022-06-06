@@ -267,3 +267,6 @@ NameError: HiThere
 
 [soures](https://docs.python.org/3/tutorial/errors.html)
 
+## Things I want to know more about
+
+I want to learn about Read & Write Files in Python Exceptions in Python
