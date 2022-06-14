@@ -17,6 +17,9 @@
 
 [Class6](Class06.md)
 
+[Class7](Class07.md)
+
+
 
 
 
