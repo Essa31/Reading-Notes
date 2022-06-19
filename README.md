@@ -19,6 +19,8 @@
 
 [Class7](Class07.md)
 
+[Class8](Class08.md)
+
 
 
 
