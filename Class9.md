@@ -64,3 +64,11 @@ use stats to calculate probabilities based on observations from the real world a
 ## Things I want to know more about
 
 Dig deeper in the statistics methods
+
+## Resources
+
+[sources1](https://dbader.org/blog/python-dunder-methods)
+
+[sources2](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
+
+[sources3](https://docs.python.org/3/library/statistics.html)
