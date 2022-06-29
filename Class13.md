@@ -2,8 +2,8 @@
 
 # Linear regression in Python
 
- ##what is linear regression? 
- 
+ ## what is linear regression? 
+
  It is a process to find relationships between variables.
 
 In order to use linear regression in Python we need to import it:
