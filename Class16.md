@@ -41,3 +41,9 @@ Well, it offers a couple of extra services, some of them are:
 ## Things I want to know more about
 
 - None.
+
+## Resources
+
+[sources1](https://vercel.com/docs/concepts/functions/serverless-functions)
+
+[sources2](https://realpython.com/effective-python-environment/)
