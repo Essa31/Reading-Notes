@@ -39,6 +39,6 @@ example:
 
 ## Resources
 
-[sources1](https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460)
+[sources1](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security/xcae6f4a7ff015e7d:data-encryption-techniques/a/encryption-decryption-and-code-cracking)
 
-[sources2](https://en.wikipedia.org/wiki/Web_scraping)
+[sources2](https://en.wikipedia.org/wiki/Caesar_cipher)
