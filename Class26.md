@@ -72,3 +72,20 @@
   - Django also provide a way to navigate around the different pages in a website.
   When a user requests a URL, Django decides which view it will send it to.
   This is done in a file called urls.py.
+
+
+
+## Things I want to know more about
+
+- None.
+
+
+
+
+## Resources
+
+[sources1](https://www.djangoproject.com/start/)
+
+[sources2](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
+
+[sources3](https://wsvincent.com/how-django-works-behind-the-scenes/)
