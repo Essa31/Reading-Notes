@@ -47,3 +47,5 @@
 [Read: Linked Lists](Read%3A%20Linked%20Lists.md)
 
 [Class26](Class26.md)
+
+[Class27](Class27.md)
