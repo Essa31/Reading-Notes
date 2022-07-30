@@ -51,3 +51,5 @@
 [Class27](Class27.md)
 
 [Class28](Class28.md)
+
+[Readings: Django Custom User](Readings%3A%20Django%20Custom%20User.md)
