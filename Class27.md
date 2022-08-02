@@ -60,9 +60,7 @@ used, orientation etc.
 - Add related fields to a record to allow inline editing (e.g. add the ability to add and edit book records while you're
 creating their author record).
 
-## Things I want to know more about
 
-None 
 
 ## Resources
 

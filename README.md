@@ -53,3 +53,5 @@
 [Class28](Class28.md)
 
 [Readings: Django Custom User](Readings%3A%20Django%20Custom%20User.md)
+
+[Read: Hash Tables](Read%3A%20Hash%20Tables.md)
