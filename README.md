@@ -57,3 +57,5 @@
 [Read: Hash Tables](Read%3A%20Hash%20Tables.md)
 
 [Class31](Class31.md)
+
+[Class32](Class32.md)
