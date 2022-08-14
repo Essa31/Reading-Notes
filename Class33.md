@@ -39,3 +39,16 @@
 - when users log in using their credentials, a JWT will be returned.
 - Should not keep tokens longer than required.
 - whenever user wants to access a protected route or resource, the user agent should send the JWT, typically in the Authorization header using the Bearer schema.
+
+## Things I want to know more about
+
+- None.
+
+## Resources
+
+[sources1](https://jwt.io/introduction/)
+
+[sources2](https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html)
+
+[sources3](https://build.vsupalov.com/django-runserver-in-production/)
+
