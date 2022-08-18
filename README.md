@@ -64,5 +64,5 @@
 
 [Class34 ](Class34.md)
 
-[Read : Graphs](Read%20%3A%20Graphs.md)
+[Graphs](Graphs.md)
 
