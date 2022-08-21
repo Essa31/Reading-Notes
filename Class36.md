@@ -6,6 +6,7 @@
 This means that whatever your doing, and what ever your thinking about, always try to keep the interviewer updated, so they can understand your thought process, and analyze your problem solving skills.
 
 * Take a few minutes.
+
 What most of those well-meaning advice-givers overlook, however, is that talking and thinking at the same time is extremely hard. Nervous interviewees will jump straight into talking, passing up a great opportunity for concentrated thought.
 
 Don’t waste precious minutes trying to fill the silence by saying everything you’re thinking, while simultaneously trying to solve the problem in your head.
@@ -13,6 +14,7 @@ Don’t waste precious minutes trying to fill the silence by saying everything y
 Instead, wait until the interviewer is done explaining the problem.
 
 * Write down the steps of the solution.
+
 Even after you have an idea of how to attack the problem, don’t start writing code down. Write down the general steps of how you will solve it on one side of the whiteboard, where it’s visible but won’t get in the way. You don’t need to be verbose, just get the steps in order and somewhat readable.
 
 
