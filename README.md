@@ -66,3 +66,4 @@
 
 [Graphs](Graphs.md)
 
+[Class36](Class36.md)
